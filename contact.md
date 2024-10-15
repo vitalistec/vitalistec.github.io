@@ -1,16 +1,17 @@
 ---
-title: Contact
+title: Contacto
 layout: contact
 description: Contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+¿Tienes preguntas o necesitas más información? Contáctanos y te ayudaremos a encontrar la mejor solución para tus equipos médicos.
 
-| Day       | Opening Hours   |
+| Día       | Horario de apertura   |
 | --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+| Lunes     | 8:30am - 5:00pm |
+| Martes    | 8:30am - 5:00pm |
+| Miércoles | 8:30am - 5:00pm |
+| Jueves    | 8:30am - 5:00pm |
+| Viernes   | 8:30am - 5:00pm |
+| Sábado    | Closed          |
+| Domingo   | Closed          |

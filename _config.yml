@@ -1,6 +1,6 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'VitalisTec'
 remote_theme: zerostaticthemes/jekyll-serif-theme
 
 logo:

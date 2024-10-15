@@ -1,5 +1,5 @@
 ---
-title: Services
+title: Servicios
 layout: services
 description: Services
 intro_image: "images/illustrations/reading.svg"
@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Services that grow with your business
+# Soluciones Integrales para tus Equipos Médicos
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+En VitalisTec ofrecemos soluciones integrales para el mantenimiento, reparación y venta de equipos médicos. Nuestro compromiso es asegurar que tu tecnología médica funcione de manera eficiente y segura, adaptándonos a las necesidades de cada centro de salud.
