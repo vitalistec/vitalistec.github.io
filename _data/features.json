@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Servicio Rápido y Confiable",
+    "description": "Resolvemos problemas técnicos con rapidez, minimizando el tiempo de inactividad de tus equipos médicos.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Soluciones Personalizadas",
+    "description": "Adaptamos nuestros servicios a las necesidades específicas de cada centro de salud para ofrecer el soporte ideal.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,17 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Cumplimiento con Normativas y Regulaciones",
+    "description": "Operamos cumpliendo todas las normativas fiscales y legales, asegurando un servicio ético y transparente.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Expertos en Tecnología Médica",
+    "description": "Nuestro equipo está altamente capacitado, brindando mantenimiento y reparación de equipos con precisión y eficiencia.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
