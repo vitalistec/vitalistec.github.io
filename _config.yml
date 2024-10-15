@@ -1,4 +1,4 @@
-baseurl: '/'
+baseurl: '/index'
 permalink: pretty
 title: 'VitalisTec'
 remote_theme: zerostaticthemes/jekyll-serif-theme
