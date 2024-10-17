@@ -13,4 +13,5 @@ En VitalisTec, entendemos que la mejor manera de evitar problemas en los equipos
 * **Inspecciones periódicas** para identificar posibles fallos.
 * **Limpieza y ajuste** de componentes para mantener el rendimiento.
 * **Pruebas funcionales** para garantizar que los equipos funcionen correctamente.
+
 El objetivo es minimizar las interrupciones en tu centro de salud y prolongar la vida útil de los equipos.
