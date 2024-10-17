@@ -14,12 +14,12 @@ En VitalisTec, no solo reparamos equipos, sino que ayudamos a mantener la calida
 
 # Objetivos
 
-1. Garantizar la eficiencia de los equipos médicos: Proveer un servicio de mantenimiento y reparación que asegure el funcionamiento óptimo y prolongue la vida útil de los equipos médicos.
+1. **Garantizar la eficiencia de los equipos médicos**: Proveer un servicio de mantenimiento y reparación que asegure el funcionamiento óptimo y prolongue la vida útil de los equipos médicos.
 
-2. Minimizar tiempos de inactividad: Responder de manera rápida y efectiva a las necesidades de nuestros clientes, reduciendo al máximo los tiempos de inactividad de los equipos.
+2. **Minimizar tiempos de inactividad**: Responder de manera rápida y efectiva a las necesidades de nuestros clientes, reduciendo al máximo los tiempos de inactividad de los equipos.
 
-3. Ofrecer soluciones personalizadas: Adaptar nuestros servicios a las necesidades específicas de cada centro de salud, brindando soluciones técnicas a medida.
+3. **Ofrecer soluciones personalizadas**: Adaptar nuestros servicios a las necesidades específicas de cada centro de salud, brindando soluciones técnicas a medida.
 
-4. Innovar en el sector de tecnología médica: Mantenernos a la vanguardia de las tendencias tecnológicas en equipos médicos para ofrecer a nuestros clientes lo último en avances y soporte técnico.
+4. **Innovar en el sector de tecnología médica**: Mantenernos a la vanguardia de las tendencias tecnológicas en equipos médicos para ofrecer a nuestros clientes lo último en avances y soporte técnico.
 
-5. Promover la seguridad y calidad en la atención médica: Asegurar que los equipos médicos en los centros de salud funcionen de manera segura y eficiente, contribuyendo a mejorar los resultados en la atención a los pacientes.
+5. **Promover la seguridad y calidad en la atención médica**: Asegurar que los equipos médicos en los centros de salud funcionen de manera segura y eficiente, contribuyendo a mejorar los resultados en la atención a los pacientes.
