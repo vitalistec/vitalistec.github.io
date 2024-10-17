@@ -13,5 +13,4 @@ La instalación adecuada de equipos médicos es clave para un funcionamiento óp
 * Los equipos se instalen según las especificaciones del fabricante.
 * La configuración esté optimizada para su uso inmediato.
 * Proveamos una demostración del funcionamiento para que tu equipo esté preparado.
-* Nos aseguramos de que todo esté listo para que puedas enfocarte en la atención a los pacientes.
 
