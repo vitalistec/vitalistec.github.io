@@ -13,4 +13,3 @@ El uso adecuado de los equipos médicos es fundamental para garantizar la seguri
 * Entrenamiento práctico en el uso de los equipos médicos.
 * Instrucciones sobre el mantenimiento preventivo básico.
 * Actualización de conocimientos cuando se adquieren nuevos equipos.
-* Esto asegura que el personal esté preparado para manejar la tecnología de manera correcta y segura.
