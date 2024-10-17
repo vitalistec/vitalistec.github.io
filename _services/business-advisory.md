@@ -13,4 +13,3 @@ Cuando los equipos médicos fallan, el tiempo es crucial. Nuestro servicio de re
 * Diagnostican y reparan equipos médicos de diversas marcas y modelos.
 * Utilizan piezas originales para garantizar la calidad y durabilidad.
 * Ofrecen tiempos de respuesta rápidos para minimizar la inactividad.
-* Nos comprometemos a restaurar el funcionamiento de tus equipos lo antes posible.
