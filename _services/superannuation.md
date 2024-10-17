@@ -10,7 +10,6 @@ Ofrecemos asesoría técnica sobre el uso y mantenimiento adecuado de equipos m�
 
 En VitalisTec, ofrecemos asesoría técnica para que saques el máximo provecho de tus equipos médicos. Nuestro servicio incluye:
 
-* Recomendaciones sobre mantenimiento y cuidado de los equipos.
-* Evaluaciones técnicas para identificar mejoras o actualizaciones.
-* Consultoría personalizada para optimizar la operación de los equipos.
-* Estamos aquí para ayudarte a mantener tus equipos en las mejores condiciones.
+* **Recomendaciones** sobre mantenimiento y cuidado de los equipos.
+* **Evaluaciones técnicas** para identificar mejoras o actualizaciones.
+* **Consultoría personalizada** para optimizar la operación de los equipos.
