@@ -13,5 +13,4 @@ En VitalisTec, no solo nos encargamos del mantenimiento y la reparación, tambi�
 * Seleccionar el equipo adecuado para tus necesidades específicas.
 * Ofrecerte precios competitivos y facilidades de pago.
 * Asegurar que tu compra cumpla con los más altos estándares de calidad.
-* Contamos con opciones para diferentes áreas médicas, asegurando que siempre tengas acceso a la mejor tecnología.
 
