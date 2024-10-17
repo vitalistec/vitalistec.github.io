@@ -13,5 +13,5 @@ description: Contact
 | Miércoles | 8:30am - 5:00pm |
 | Jueves    | 8:30am - 5:00pm |
 | Viernes   | 8:30am - 5:00pm |
-| Sábado    | Closed          |
-| Domingo   | Closed          |
+| Sábado    | Cerrado         |
+| Domingo   | Cerrado         |
