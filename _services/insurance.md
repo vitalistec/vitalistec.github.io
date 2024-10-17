@@ -9,6 +9,6 @@ Aseguramos que tus equipos médicos cumplan con los estándares de precisión y 
 
 La precisión es vital en los equipos médicos. Nuestro servicio de calibración y verificación te asegura que tus equipos cumplan con los estándares de seguridad y rendimiento. Ofrecemos:
 
-* Calibraciones periódicas para mantener la exactitud de los equipos.
-* Verificación y certificación según las normas técnicas aplicables.
-* Un informe detallado que confirma el correcto funcionamiento.
+* **Calibraciones periódicas** para mantener la exactitud de los equipos.
+* **Verificación y certificación** según las normas técnicas aplicables.
+* Un **informe detallado** que confirma el correcto funcionamiento.
