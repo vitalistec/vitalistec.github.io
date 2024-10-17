@@ -5,7 +5,7 @@ description: About
 bodyClass: page-about
 ---
 
-En VitalisTec, estamos comprometidos con la excelencia en el mantenimiento, reparación y venta de equipos médicos, entendiendo la importancia de la tecnología en el sector salud. Nuestro objetivo es ser un socio estratégico para hospitales y clínicas, ofreciendo soluciones personalizadas que minimizan el tiempo de inactividad. Nos dedicamos a asegurar que los equipos estén siempre en óptimas condiciones, ya que la tecnología médica avanzada y un servicio técnico excepcional son clave para impulsar el rendimiento en la atención sanitaria. Seguimos innovando para brindar el soporte necesario a nuestros clientes.
+En VitalisTec, estamos comprometidos con la excelencia en el mantenimiento, reparación y venta de equipos médicos, entendiendo la importancia de la tecnología en el sector salud. Nuestro objetivo es ser un socio estratégico para hospitales y clínicas, ofreciendo soluciones personalizadas que minimizan el tiempo de inactividad. Nos dedicamos a asegurar que los equipos estén siempre en óptimas condiciones, ya que la tecnología médica avanzada y un servicio técnico excepcional son clave para impulsar el rendimiento en la atención sanitaria.
 
 
 # Objetivos
